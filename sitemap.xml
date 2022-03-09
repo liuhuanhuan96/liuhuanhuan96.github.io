@@ -92,15 +92,6 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/comments/index.html</loc>
-    
-    <lastmod>2022-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://hhliu.top/archives/10297.html</loc>
     
     <lastmod>2022-03-04</lastmod>
@@ -1049,6 +1040,15 @@
     <loc>http://hhliu.top/archives/5846.html</loc>
     
     <lastmod>2022-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hhliu.top/comments/index.html</loc>
+    
+    <lastmod>2021-04-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
