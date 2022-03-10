@@ -470,7 +470,7 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/archives/37064.html</loc>
+    <loc>http://hhliu.top/archives/34140.html</loc>
     
     <lastmod>2022-03-04</lastmod>
     
@@ -479,7 +479,7 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/archives/34140.html</loc>
+    <loc>http://hhliu.top/archives/37064.html</loc>
     
     <lastmod>2022-03-04</lastmod>
     
@@ -1092,7 +1092,7 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/tags/Markdown/</loc>
+    <loc>http://hhliu.top/tags/Redis/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1106,7 +1106,7 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/tags/Redis/</loc>
+    <loc>http://hhliu.top/tags/Markdown/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1127,7 +1127,7 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/tags/Docker/</loc>
+    <loc>http://hhliu.top/tags/Flask/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1141,7 +1141,7 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/tags/Flask/</loc>
+    <loc>http://hhliu.top/tags/Docker/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1162,14 +1162,14 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/tags/Windows10/</loc>
+    <loc>http://hhliu.top/tags/GitHub/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://hhliu.top/tags/GitHub/</loc>
+    <loc>http://hhliu.top/tags/Windows10/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1197,14 +1197,14 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/tags/MyBatis/</loc>
+    <loc>http://hhliu.top/tags/MySQL/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://hhliu.top/tags/MySQL/</loc>
+    <loc>http://hhliu.top/tags/MyBatis/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1218,14 +1218,14 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/tags/Anaconda/</loc>
+    <loc>http://hhliu.top/tags/Numpy/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://hhliu.top/tags/Numpy/</loc>
+    <loc>http://hhliu.top/tags/Anaconda/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1381,7 +1381,7 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/categories/Markdown/</loc>
+    <loc>http://hhliu.top/categories/Redis/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1395,7 +1395,7 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/categories/Redis/</loc>
+    <loc>http://hhliu.top/categories/Markdown/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1416,6 +1416,13 @@
   </url>
   
   <url>
+    <loc>http://hhliu.top/categories/Flask/</loc>
+    <lastmod>2022-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://hhliu.top/categories/Python/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -1423,7 +1430,7 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/categories/Docker/</loc>
+    <loc>http://hhliu.top/categories/Redis/MacOS/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1437,14 +1444,7 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/categories/Flask/</loc>
-    <lastmod>2022-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://hhliu.top/categories/Redis/MacOS/</loc>
+    <loc>http://hhliu.top/categories/Docker/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1472,14 +1472,14 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/categories/Windows10/</loc>
+    <loc>http://hhliu.top/categories/GitHub/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://hhliu.top/categories/GitHub/</loc>
+    <loc>http://hhliu.top/categories/Windows10/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1493,14 +1493,14 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/categories/MyBatis/</loc>
+    <loc>http://hhliu.top/categories/MySQL/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://hhliu.top/categories/MySQL/</loc>
+    <loc>http://hhliu.top/categories/MyBatis/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1528,14 +1528,14 @@
   </url>
   
   <url>
-    <loc>http://hhliu.top/categories/Python/Json/</loc>
+    <loc>http://hhliu.top/categories/Java/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://hhliu.top/categories/Java/%E7%AE%97%E6%B3%95/</loc>
+    <loc>http://hhliu.top/categories/Python/Json/</loc>
     <lastmod>2022-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
