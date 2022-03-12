@@ -4,11 +4,61 @@
   
     
     <entry>
+      <title>【hexo】基础教程-九-新增相册与音乐电影功能</title>
+      <link href="/archives/6c2846a4.html"/>
+      <url>/archives/6c2846a4.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="新增相册"><a href="#新增相册" class="headerlink" title="新增相册"></a>新增相册</h2><p><a href="https://butterfly.js.org/posts/4aa8abbe/#Gallery%E7%9B%B8%E5%86%8A%E5%9C%96%E5%BA%AB">首先参考官网新增相册方式</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【hexo】基础教程-八-外挂标签</title>
+      <link href="/archives/3a7bc3f4.html"/>
+      <url>/archives/3a7bc3f4.html</url>
+      
+        <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=" "></a> </h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>呆完成的hexo博客配置</title>
       <link href="/archives/29076.html"/>
       <url>/archives/29076.html</url>
       
-        <content type="html"><![CDATA[<h2 id="未完成配置"><a href="#未完成配置" class="headerlink" title="未完成配置"></a>未完成配置</h2><ul><li>顶部新增图片，电影等  解决方案（<a href="https://butterfly.js.org/posts/4073eda/#音樂">Butterfly 安裝文檔(六) 進階教程 | Butterfly</a>）</li><li>标签外挂</li><li>唐先森博客优化</li><li>评论系统</li><li>友链</li><li>相册</li><li>视频</li><li>文章链接地址</li><li>标签图片新增</li><li>碎碎念</li><li>文章首页图片显示，不是太大，就是太小</li></ul><h2 id="需要去搞定的"><a href="#需要去搞定的" class="headerlink" title="需要去搞定的"></a>需要去搞定的</h2><p>这个图片的排版是以宽度100%为准，然后垂直居中。</p><p>你可以试着自己裁剪图片</p><p>长宽是550px:360px，宽度在不同屏幕下会有所变动。、</p><p><a href="https://www.canva.cn/">https://www.canva.cn/</a></p><p>评论回复的话你现在用的valine默认是没有的</p><p>加的话得研究下valine-admin这个项目 是另外附加的第三方邮件回复</p><p>但我还是推荐你直接用twikoo或者waline更好</p><p>而且twikoo集成了一个管理面板</p><p>可以直接在网站上管理</p><p>他的评论系统都需要去第三方网页管理</p><p>Hexo博客新手任务学习分支线：</p><p>支线任务3：熟练掌握markdown基本语法后，可以使用外挂标签丰富博客文章的格式。<br>教程链接：<a href="https://akilar.top/posts/615e2dec/">https://akilar.top/posts/615e2dec/</a><br>任务难度：⭐⭐</p><p>主线任务3：学习github action，将博客源码托管至github，并通过github action完成线上部署。<br>教程链接：<a href="https://akilar.top/posts/f752c86d/">https://akilar.top/posts/f752c86d/</a><br>任务难度：⭐⭐⭐⭐</p><p>支线任务4：使用Vercel部署博客网页，进一步提高访问速度<br>教程链接：<a href="https://akilar.top/posts/812734f8/">https://akilar.top/posts/812734f8/</a><br>任务难度：⭐</p><p>博客优化副本任务：按照糖果屋优化日记的教程索引，完成博客基本优化<br>教程链接：<a href="https://akilar.top/posts/7c16c4bb/">https://akilar.top/posts/7c16c4bb/</a><br>任务难度：⭐⭐⭐⭐⭐</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="未完成配置"><a href="#未完成配置" class="headerlink" title="未完成配置"></a>未完成配置</h2><ul><li>顶部新增图片，电影等  解决方案（<a href="https://butterfly.js.org/posts/4073eda/#音樂">Butterfly 安裝文檔(六) 進階教程 | Butterfly</a>）</li><li>标签外挂</li><li>唐先森博客优化</li><li>评论系统</li><li>友链</li><li>相册</li><li>视频</li><li>文章链接地址</li><li>标签图片新增</li><li>碎碎念</li><li>文章首页图片显示，不是太大，就是太小</li></ul><h2 id="需要去搞定的"><a href="#需要去搞定的" class="headerlink" title="需要去搞定的"></a>需要去搞定的</h2><p>这个图片的排版是以宽度100%为准，然后垂直居中。</p><p>你可以试着自己裁剪图片</p><p>长宽是550px:360px，宽度在不同屏幕下会有所变动。、</p><p><a href="https://www.canva.cn/">https://www.canva.cn/</a></p><p>Hexo博客新手任务学习分支线：</p><p>支线任务3：熟练掌握markdown基本语法后，可以使用外挂标签丰富博客文章的格式。<br>教程链接：<a href="https://akilar.top/posts/615e2dec/">https://akilar.top/posts/615e2dec/</a><br>任务难度：⭐⭐</p><p>主线任务3：学习github action，将博客源码托管至github，并通过github action完成线上部署。<br>教程链接：<a href="https://akilar.top/posts/f752c86d/">https://akilar.top/posts/f752c86d/</a><br>任务难度：⭐⭐⭐⭐</p><p>支线任务4：使用Vercel部署博客网页，进一步提高访问速度<br>教程链接：<a href="https://akilar.top/posts/812734f8/">https://akilar.top/posts/812734f8/</a><br>任务难度：⭐</p><p>博客优化副本任务：按照糖果屋优化日记的教程索引，完成博客基本优化<br>教程链接：<a href="https://akilar.top/posts/7c16c4bb/">https://akilar.top/posts/7c16c4bb/</a><br>任务难度：⭐⭐⭐⭐⭐</p><p>外挂标签的使用</p><p><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h06d04qdojj20v70iltar.jpg" alt="image-20220311232752398"></p><p><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h06d0hra7vj20tc0pxtbe.jpg" alt="image-20220311232816236"></p><p><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h06d0qcq7qj20v70ilaem.jpg" alt="image-20220311232829896"></p>]]></content>
       
       
       <categories>
